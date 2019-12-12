@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9659f18780e2d70d60109675d77e721",
+    "revision": "af1763815549432539cf0cf29d4b5ea3",
     "url": "/challenge/index.html"
   },
   {
-    "revision": "ad3006483c9e6024075e",
-    "url": "/challenge/static/css/main.8e780f6c.chunk.css"
+    "revision": "73494a81317f2c916cb9",
+    "url": "/challenge/static/css/main.a0711a86.chunk.css"
   },
   {
-    "revision": "f3cbaafd6aa749e05c58",
-    "url": "/challenge/static/js/2.7ffb9b32.chunk.js"
+    "revision": "53b3233316bd105ea1f9",
+    "url": "/challenge/static/js/2.258d29bd.chunk.js"
   },
   {
-    "revision": "ad3006483c9e6024075e",
-    "url": "/challenge/static/js/main.3f4a9935.chunk.js"
+    "revision": "73494a81317f2c916cb9",
+    "url": "/challenge/static/js/main.f5ada0ca.chunk.js"
   },
   {
-    "revision": "02a56a0856ae12607a39",
-    "url": "/challenge/static/js/runtime-main.8b979983.js"
+    "revision": "07ad49a1457bff1250f7",
+    "url": "/challenge/static/js/runtime-main.0f3f1b33.js"
   },
   {
     "revision": "dbedc718bdf723b727fceab00f532144",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a75fb18bd6952a1cdd8d7eabd90eff71",
     "url": "/challenge/static/media/quickwin.a75fb18b.jpg"
+  },
+  {
+    "revision": "012a0a644e88f343f135aad9d519ac1c",
+    "url": "/challenge/static/media/screen-3.012a0a64.jpg"
   },
   {
     "revision": "b3c6bb0772f2ff9f4ac5d8771a6cc758",

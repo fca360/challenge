@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/challenge/static/css/main.8e780f6c.chunk.css",
-    "main.js": "/challenge/static/js/main.3f4a9935.chunk.js",
-    "main.js.map": "/challenge/static/js/main.3f4a9935.chunk.js.map",
-    "runtime-main.js": "/challenge/static/js/runtime-main.8b979983.js",
-    "runtime-main.js.map": "/challenge/static/js/runtime-main.8b979983.js.map",
-    "static/js/2.7ffb9b32.chunk.js": "/challenge/static/js/2.7ffb9b32.chunk.js",
-    "static/js/2.7ffb9b32.chunk.js.map": "/challenge/static/js/2.7ffb9b32.chunk.js.map",
+    "main.css": "/challenge/static/css/main.a0711a86.chunk.css",
+    "main.js": "/challenge/static/js/main.f5ada0ca.chunk.js",
+    "main.js.map": "/challenge/static/js/main.f5ada0ca.chunk.js.map",
+    "runtime-main.js": "/challenge/static/js/runtime-main.0f3f1b33.js",
+    "runtime-main.js.map": "/challenge/static/js/runtime-main.0f3f1b33.js.map",
+    "static/js/2.258d29bd.chunk.js": "/challenge/static/js/2.258d29bd.chunk.js",
+    "static/js/2.258d29bd.chunk.js.map": "/challenge/static/js/2.258d29bd.chunk.js.map",
     "index.html": "/challenge/index.html",
-    "precache-manifest.2eaa66a1a236c0d609bbf996bc339688.js": "/challenge/precache-manifest.2eaa66a1a236c0d609bbf996bc339688.js",
+    "precache-manifest.6871a4fe1204a73f0f18d78dc777b84e.js": "/challenge/precache-manifest.6871a4fe1204a73f0f18d78dc777b84e.js",
     "service-worker.js": "/challenge/service-worker.js",
-    "static/css/main.8e780f6c.chunk.css.map": "/challenge/static/css/main.8e780f6c.chunk.css.map",
+    "static/css/main.a0711a86.chunk.css.map": "/challenge/static/css/main.a0711a86.chunk.css.map",
     "static/media/3.jpg": "/challenge/static/media/3.dbedc718.jpg",
     "static/media/4.jpg": "/challenge/static/media/4.606384ec.jpg",
     "static/media/App.css": "/challenge/static/media/fundo4.b14223ea.jpg",
     "static/media/materialdidaticoxadrezbatatais2.jpg": "/challenge/static/media/materialdidaticoxadrezbatatais2.e43c63d4.jpg",
     "static/media/quickwin.jpg": "/challenge/static/media/quickwin.a75fb18b.jpg",
+    "static/media/screen-3.jpg": "/challenge/static/media/screen-3.012a0a64.jpg",
     "static/media/sim-nos-podemos.jpg": "/challenge/static/media/sim-nos-podemos.b3c6bb07.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b979983.js",
-    "static/js/2.7ffb9b32.chunk.js",
-    "static/css/main.8e780f6c.chunk.css",
-    "static/js/main.3f4a9935.chunk.js"
+    "static/js/runtime-main.0f3f1b33.js",
+    "static/js/2.258d29bd.chunk.js",
+    "static/css/main.a0711a86.chunk.css",
+    "static/js/main.f5ada0ca.chunk.js"
   ]
 }
